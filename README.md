@@ -35,7 +35,7 @@ The project uses the EpiRecipes dataset, which includes:
 ## Installation and Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/EpiRecipes-Analysis-Suggester.git
+   git clone https://github.com/Sunny110101/EpiRecipes-Visualization-Application.git
    ```
 2. Install required packages:
    ```
@@ -43,7 +43,7 @@ The project uses the EpiRecipes dataset, which includes:
    ```
 3. Run the Streamlit app:
    ```
-   streamlit run pantry_recipe_suggester.py
+   streamlit run recipeStreamlit.py
    ```
 
 ## Project Structure
