@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup as bs
 import abc
 from urllib.request import urlopen as url
 
-
 # must be passed raw html
 class Recipe:
     __metaclass__ = abc.ABCMeta
